@@ -1,0 +1,388 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-image: url(./victor-garcia-1263465-unsplash.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 737px;
+}
+
+.logo {
+    display: flex;
+    margin-left: 159px;
+    padding-top: 25px;
+}
+
+.id {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.i {
+    color: darkgoldenrod;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.menu {
+    /* border: 1px solid red; */
+    display: flex;
+    width: 500px;
+    height: 40px;
+    justify-content: space-between;
+    margin: auto;
+    margin-left: 530px;
+}
+
+.menu .w {
+    color: darkgoldenrod;
+    padding-top: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.menu .q {
+    color: white;
+    padding-top: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main h1 {
+    margin-left: 159px;
+    padding-top: 166px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main h2 {
+    margin-left: 159px;
+    padding-top: 29px;
+    color: darkgoldenrod;
+    font-family: Roboto;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main h3 {
+    margin-left: 159px;
+    padding-top: 24px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main button {
+    width: 180px;
+    border: 1px solid white;
+    border-radius: 100px;
+    height: 50px;
+    margin-left: 159px;
+    margin-top: 64px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: transparent;
+}
+
+.e {
+    margin-left: 160px;
+    margin-top: 140px;
+    color: #565656;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.r {
+    /* border: 1px solid red; */
+    margin-left: 160px;
+    margin-top: 84px;
+}
+
+.y {
+    background-color: black;
+    height: 650px;
+}
+
+.u {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 159px;
+    padding-top: 142px;
+}
+
+.o {
+    display: flex;
+    /* border: 1px solid red; */
+    width: 1150px;
+    margin: auto;
+}
+
+.o .a img {
+    margin: auto;
+}
+
+.a {
+    /* border: 1px solid red; */
+    margin-left: 25px;
+    margin-top: 80px;
+    width: 350px;
+    height: 400px;
+}
+
+.s {
+    color: white;
+    margin-left: 20px;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.d {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.f {
+    margin-top: 140px;
+    margin-left: 159px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.g {
+    /* border: 1px solid red; */
+    display: flex;
+    height: 300px;
+    width: 1110px;
+    margin: auto;
+    margin-top: 95px;
+}
+
+.h {
+    /* border: 1px solid red; */
+    width: 251px;
+    background-color: #000;
+    color: #FFF;
+    height: 300px;
+    margin-left: 20px;
+}
+
+.h h3 {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.h p {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.men {
+    background: url(./alesia-kazantceva-283291-unsplash.png), #565656 0px -100.167px / 100% 112.045% no-repeat;
+    height: 833px;
+}
+
+.k {
+    display: flex;
+    /* border: 1px solid #565656; */
+    width: 660px;
+    margin-left: 148px;
+    padding-top: 177px;
+}
+
+.k .c {
+    color: #FFF;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.men p {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 148px;
+}
+
+.men button {
+    width: 180px;
+    border: 1px solid white;
+    border-radius: 100px;
+    height: 50px;
+    margin-left: 159px;
+    margin-top: 64px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: transparent;
+}
+
+.menu .q {
+    color: white;
+    padding-top: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.m .i {
+    color: darkgoldenrod;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.m .id {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.logo {
+    display: flex;
+    margin-left: 160px;
+    padding-top: 92px;
+}
+
+.m {
+    background-color: #000;
+    height: 350px;
+}
+
+.n {
+    color: #FFF;
+}
+
+.mil {
+    display: flex;
+}
+
+.text {
+    color: #FFF;
+    /* border: 1px solid white; */
+    width: 525px;
+    height: 120px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+
+.n {
+    /* border: 1px solid white; */
+    width: 200px;
+    margin-left: 390px;
+    padding-top: 50px;
+}
+
+.n .sa {
+    margin-left: 67px;
+}
+
+.kl {
+    display: flex;
+    /* border: 1px solid red; */
+    width: 330px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+.op {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.lk b{
+    color: darkgoldenrod;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.lk{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
